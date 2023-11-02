@@ -1,0 +1,38 @@
+---
+title: "CyberDragons Ethical Hacking Pledge"
+format:
+  pdf:
+    toc: false
+    number-sections: true
+    mainfont: Inter
+    keep-tex: true
+    sansfont: Inter
+    colorlinks: true
+    code-line-numbers: true 
+    author: "GSMST Computer Science Club"
+    date: "September 29, 2023"
+    include-in-header: 
+        text:
+            \newfontfamily\sectionfont[Color=000000]{Inter}
+            \newfontfamily\subsectionfont[Color=000000]{Inter}
+            \newfontfamily\subsubsectionfont[Color=000000]{Inter}
+            \addtokomafont{section}{\sectionfont}
+            \addtokomafont{subsection}{\subsectionfont}
+            \addtokomafont{subsubsection}{\subsubsectionfont}
+            \usepackage{fvextra}
+            \usepackage{tikz}
+            \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+---
+Congratulations on being accepted into a CyberDragons team! This pledge is a promise that you will use your skills for good and not evil. Please read the pledge carefully and sign below.
+
+## Competitor Code of Conduct
+1) I will consider the ethical and legal implications of my online actions when using my cyber defense skills.
+2) I will not conduct, nor will I condone, any actions that attack, penetrate, or interfere with another individual’s computer system illegally. 
+3) I will not illegally copy or distribute software or other intellectual property.
+4) I will not participate in cyberbullying, which includes behaviors as online teasing, threatening, intimidating, humiliating, sexual/racial harassment, and stalking.
+5) I will follow the rules of every cybersecurity competition I participate in and seek guidance from Ms. Rachkovskiy for any disputes over integrity or competition rules. For CyberPatriot specifically, I agree to abide by the rules in the CyberPatriot Rules Book and report all rule violations to Ms. Rachkovskiy.
+6) I will not tamper with, modify, or reverse engineer any element of the competitions I will participate in.
+7) I will not attempt to deceive or socially engineer other competitors by sending erroneous/deceptive information on social networking sites.
+9) I will not share information about any competition's tasks, questions, or answers on any website, forum, or social media platform.
+
+By signing below, I understand that violation of this code of conduct is grounds for **immediate dismissal** from my team and disqualification of my team from the competition of contention. I also understand that I will be banned from participating in future competitions. I will strive to use my participation in CyberPatriot and other competitions to further my understanding of cybersecurity, and not to harm others or break the law.
